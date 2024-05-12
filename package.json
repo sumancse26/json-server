@@ -1,0 +1,15 @@
+{
+    "name": "json-server",
+    "version": "1.0.0",
+    "description": "Json server for testing",
+    "main": "api/server.js",
+    "scripts": {
+        "start": "node api/server.js"
+    },
+    "keywords": [],
+    "author": "Zaman",
+    "license": "ISC",
+    "dependencies": {
+        "json-server": "^0.17.4"
+    }
+}
